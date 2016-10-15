@@ -1,0 +1,202 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+}
+
+.section{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+
+}
+
+.box{
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: 50%;
+	height: 100%;
+	background-color: yellow;
+}
+
+.box02{
+position: relative;
+	top: 10%;
+	left: 10%;
+	width: 20%;
+	height: 20%;
+	background-color: purple;
+}
+
+.box03{
+	position: relative;
+	top: 15%;
+	left: 10%;
+	width: 20%;
+	height: 20%;
+	background-color: purple;
+}
+
+.box04{
+	position: relative;
+	top: 12%;
+	left: 10%;
+	width: 20%;
+	height: 20%;
+	background-color: purple;
+}
+
+.box05{
+	position: relative;
+	top: 5%;
+	left: 10%;
+	width: 20%;
+	height: 20%;
+	background-color: purple;
+}
+
+#section1{
+	background-color: yellow;
+	
+}
+
+#section2{
+	top: 50%;
+	background-color: red;
+}
+
+#section3{
+	background-color: orange;
+}
+	
+.next{
+	position: fixed;
+	bottom: 1%;
+	right: 1%;
+}	
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:1000%;
+	width:20px;
+}
+
+.marker{
+	width:100%;
+	height:10%;
+	border: 2px solid white;
+}
+
+
+.spin{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:-10%;
+	background-color: orange;
+}
+
+.spintwo{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:10%;
+	background-color: orange;
+}
+
+.spinthree{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:30%;
+	background-color: orange;
+}
+
+.spinfour{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:50%;
+	background-color: orange;
+}
+
+.spinfive{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:70%;
+	background-color: orange;
+}
+
+.spinsix{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:-15%;
+	background-color: purple;
+}
+
+.spinseven{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:-5%;
+	background-color: purple;
+}
+
+.spineight{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:20%;
+	background-color: purple;
+}
+
+.spinnine{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:40%;
+	background-color: purple;
+}
+
+.spinten{
+	position:relative;
+	width:80%;
+	height:10px;
+	top:33%;
+	left:60%;
+	background-color: purple;
+}
+
+
+
